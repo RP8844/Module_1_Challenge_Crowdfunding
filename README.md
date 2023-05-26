@@ -1,2 +1,2 @@
-# crowdfunding-challenge
-Module1: Excel
+# excel-challenge
+Module 1: Excel
